@@ -118,7 +118,7 @@ The live dashboard includes:
 - **Filters** for Product Category, Promotion, Foot Traffic
 - **Responsive layout** for desktop and mobile
 
-**[View Live → abhinav-kodes.github.io/Strategic-product-placement](https://abhinav-kodes.github.io/Strategic-product-placement/)**
+**[View Live → abhinav-kodes.github.io/Strategic-product-placement](https://tanishka-agarwal26.github.io/Strategic_Product_Placement_Analysis/)**
 
 ---
 
